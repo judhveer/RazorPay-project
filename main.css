@@ -8,6 +8,10 @@
     padding-bottom: 12rem;
 }
 
+.ctaSection{
+    background-size: 100% 100%;
+}
+
 .moveImage{
     animation: 30s infinite linear moveCompany;
 }
